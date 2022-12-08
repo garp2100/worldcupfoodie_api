@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{90FB04C8-2CD8-45E9-9222-48868B8F1114}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WorldCupFoodie/WorldCupFoodie.csproj">
+    <Files>
+      <File FileName="WorldCupFoodie/WorldCupFoodie.csproj" Line="22" Column="15" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WorldCupFoodie" expanded="True">
+            <Node name="NuGet.Config files" expanded="True" />
+            <Node name="WorldCupFoodie" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.WorldCupFoodie PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
