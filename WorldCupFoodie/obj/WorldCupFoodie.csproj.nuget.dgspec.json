@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gustavor\\Documents\\grandcircus\\WorldCupFoodie\\worldcupfoodie_api\\WorldCupFoodie\\WorldCupFoodie\\WorldCupFoodie.csproj": {}
+    "C:\\Users\\gustavor\\Documents\\grandcircus\\worldcupfoodie_api\\WorldCupFoodie\\WorldCupFoodie.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gustavor\\Documents\\grandcircus\\WorldCupFoodie\\worldcupfoodie_api\\WorldCupFoodie\\WorldCupFoodie\\WorldCupFoodie.csproj": {
+    "C:\\Users\\gustavor\\Documents\\grandcircus\\worldcupfoodie_api\\WorldCupFoodie\\WorldCupFoodie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gustavor\\Documents\\grandcircus\\WorldCupFoodie\\worldcupfoodie_api\\WorldCupFoodie\\WorldCupFoodie\\WorldCupFoodie.csproj",
+        "projectUniqueName": "C:\\Users\\gustavor\\Documents\\grandcircus\\worldcupfoodie_api\\WorldCupFoodie\\WorldCupFoodie.csproj",
         "projectName": "WorldCupFoodie",
-        "projectPath": "C:\\Users\\gustavor\\Documents\\grandcircus\\WorldCupFoodie\\worldcupfoodie_api\\WorldCupFoodie\\WorldCupFoodie\\WorldCupFoodie.csproj",
+        "projectPath": "C:\\Users\\gustavor\\Documents\\grandcircus\\worldcupfoodie_api\\WorldCupFoodie\\WorldCupFoodie.csproj",
         "packagesPath": "C:\\Users\\gustavor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gustavor\\Documents\\grandcircus\\WorldCupFoodie\\worldcupfoodie_api\\WorldCupFoodie\\WorldCupFoodie\\obj\\",
+        "outputPath": "C:\\Users\\gustavor\\Documents\\grandcircus\\worldcupfoodie_api\\WorldCupFoodie\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gustavor\\AppData\\Roaming\\NuGet\\NuGet.Config",
