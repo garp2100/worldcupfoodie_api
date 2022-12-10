@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using WorldCupFoodie.DTOs;
 using WorldCupFoodie.Models;
 
 namespace WorldCupFoodie.Controllers
@@ -75,12 +76,22 @@ namespace WorldCupFoodie.Controllers
         // POST: api/Dishes
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
         [HttpPost]
-        public async Task<ActionResult<Dish>> PostDish(Dish dish)
+        public async Task<ActionResult<Dish>> PostDish(DishPost dishInput)
         {
+            var dish = new Dish
+            {
+                MatchId = dishInput.MatchId,
+                Dish1 = dishInput.Dish1,
+                Description = dishInput.Description,
+            };
             _context.Dishes.Add(dish);
-            await _context.SaveChangesAsync();
+            if (await _context.SaveChangesAsync() == 1) return Ok();
 
-            return CreatedAtAction("GetDish", new { id = dish.Id }, dish);
+            return StatusCode(500);
+            //_context.Dishes.Add(dish);
+            //await _context.SaveChangesAsync();
+
+            //return CreatedAtAction("GetDish", new { id = dish.Id }, dish);
         }
 
         // DELETE: api/Dishes/5

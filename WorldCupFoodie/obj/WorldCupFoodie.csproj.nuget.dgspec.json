@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gustavor\\Documents\\grandcircus\\worldcupfoodie_api\\WorldCupFoodie\\WorldCupFoodie.csproj": {}
+    "C:\\Users\\eugen\\Desktop\\FINAL\\BE\\worldcupfoodie_api\\WorldCupFoodie\\WorldCupFoodie.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gustavor\\Documents\\grandcircus\\worldcupfoodie_api\\WorldCupFoodie\\WorldCupFoodie.csproj": {
+    "C:\\Users\\eugen\\Desktop\\FINAL\\BE\\worldcupfoodie_api\\WorldCupFoodie\\WorldCupFoodie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gustavor\\Documents\\grandcircus\\worldcupfoodie_api\\WorldCupFoodie\\WorldCupFoodie.csproj",
+        "projectUniqueName": "C:\\Users\\eugen\\Desktop\\FINAL\\BE\\worldcupfoodie_api\\WorldCupFoodie\\WorldCupFoodie.csproj",
         "projectName": "WorldCupFoodie",
-        "projectPath": "C:\\Users\\gustavor\\Documents\\grandcircus\\worldcupfoodie_api\\WorldCupFoodie\\WorldCupFoodie.csproj",
-        "packagesPath": "C:\\Users\\gustavor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gustavor\\Documents\\grandcircus\\worldcupfoodie_api\\WorldCupFoodie\\obj\\",
+        "projectPath": "C:\\Users\\eugen\\Desktop\\FINAL\\BE\\worldcupfoodie_api\\WorldCupFoodie\\WorldCupFoodie.csproj",
+        "packagesPath": "C:\\Users\\eugen\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\eugen\\Desktop\\FINAL\\BE\\worldcupfoodie_api\\WorldCupFoodie\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\gustavor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\eugen\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -65,7 +65,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -77,7 +78,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
